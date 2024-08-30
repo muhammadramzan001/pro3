@@ -158,12 +158,21 @@ body {
         width: 200px;
     }
 
+    .logo {
+        width: 60px;
+        position: absolute;
+        top: 2%;
+        left: 3%;
+    }
+
+
     #manubtn {
         width: 40px;
         height: 40px;
         right: 10px;
-        top: 10px;
+        top: 18px;
     }
+
 
     #manubtn img {
         width: 20px;
@@ -313,6 +322,21 @@ body {
 
     }
 
+    .feature h1 {
+        margin-right: 10px;
+        font-weight: bold;
+        text-align: left;
+        margin-bottom: 10px;
+        /* font-weight: 100; */
+        color: #009688;
+    }
+
+
+
+
+
+
+
     .feature-img {
 
         flex-basis: 100%;
@@ -321,10 +345,11 @@ body {
 
     .feature-img img {
         width: 100%;
-        margin-left: 14px;
+        margin-left: 0px;
     }
-
 }
+
+
 
 
 
